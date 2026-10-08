@@ -1,0 +1,15 @@
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+**/.settings/
+**/.classpath
+**/.project
+**/.idea/
+**/.vscode/
+*.class
+*.log
+*.db
+*.mv.db
+*.trace.db
+.env
+.env.*
+.DS_Store
